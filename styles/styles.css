@@ -1,0 +1,37 @@
+.header{
+    background-color: rgba(0, 255, 255, 0.507);
+    text-align: center;
+    border-radius: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.text{
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 30px;
+}
+
+.cinta{
+    width: 400px;
+   
+}
+
+.boton{
+    bottom: unset;
+    background-color: rgba(159, 159, 197, 0.473);
+    margin-bottom: 30px;
+    border-radius: 40px;
+}
+
+.lol{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(86, 139, 106, 0.562);
+    border-radius: 30px;
+}
+
+.pro{
+    width: 400px;
+    border-radius: 40px;
+}
